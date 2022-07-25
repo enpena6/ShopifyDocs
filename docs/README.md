@@ -6,3 +6,5 @@ sd;lkjadf;lj
 **boldtext**
 _italic_
 [Google Search](https://google.com)
+new line
+
